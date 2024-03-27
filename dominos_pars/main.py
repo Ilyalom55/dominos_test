@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-import sqlite3
 
 headers = {
   'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
